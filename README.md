@@ -2,7 +2,7 @@
 
 *A factory/automation/Education game about building real-world data engineering pipelines!*
 
-[![status](https://img.shields.io/badge/status-pre-alpha-orange)]()
+[![status](https://img.shields.io/badge/status-pre--alpha-orange)]()
 [![license](https://img.shields.io/badge/license-MIT-blue)]()
 [![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)]()
 
