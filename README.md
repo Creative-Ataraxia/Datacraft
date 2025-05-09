@@ -68,7 +68,8 @@ If you enjoy optimizing production lines and shaving milliseconds off jobs, or y
 3. **Run** the `Main` scene to play the grey-boxed prototype.
 4. **Hack** on a new building block, or tweak the JSON level spec, and open a pull request.
 
-> **No game-dev experience welcome** Start with docs, UX mock-ups, or balancing spreadsheets—everything helps.
+> **No game-dev experience welcome**
+> Start with docs, UX mock-ups, or balancing spreadsheets—everything helps.
 
 ---
 
