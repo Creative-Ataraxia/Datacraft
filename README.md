@@ -34,7 +34,7 @@ If you enjoy optimizing production lines and shaving milliseconds off jobs, or y
 * **Batch, streaming, real-time ingestion**—pay for speed like in the cloud.  
 * **Visual DAG orchestrator**—zoom from pipe-level to workflow overview.  
 * **Failure modes that matter**—schema drift, SLO breaches, runaway cost.  
-* **Expandable toolbox**—unlock dbt, Spark, Airbyte-like extractors, ML endpoints and more as you progress. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+* **Expandable toolbox**—unlock dbt, Spark, Airbyte-like extractors, ML endpoints and more as you progress.
 
 ---
 
